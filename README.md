@@ -1,4 +1,4 @@
-## <p>Hello 👋 <img src="https://i.imgur.com/a4kJg3Z.gif" width="60"><img src="https://i.imgur.com/a4kJg3Z.gif" width="60"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4998&pause=1000&color=F4F4F5&random=false&width=435&lines=May+the+Force+be+with+you+👾)](https://git.io/typing-svg)</p>
+## <p>Hello 👋 <img src="https://i.imgur.com/a4kJg3Z.gif" width="60"><img src="https://i.imgur.com/a4kJg3Z.gif" width="60"></p>
 
 <samp>
 I’m AKHI ! I am a tech enthusiast with a passion for app development, UI/UX design, programming, and software design. I also have a keen interest in horology.
@@ -6,3 +6,5 @@ I’m AKHI ! I am a tech enthusiast with a passion for app development, UI/UX de
 <br> </br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=akhi07rx&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4998&pause=1000&color=F4F4F5&random=false&width=435&lines=May+the+Force+be+with+you+👾)](https://git.io/typing-svg)
