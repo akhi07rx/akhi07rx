@@ -1,4 +1,4 @@
-## <p>Hello 👋 <img src="https://i.imgur.com/a4kJg3Z.gif" width="60"><img src="https://i.imgur.com/a4kJg3Z.gif" width="60"></p>
+## <p>Hello 👋 <img src="https://i.imgur.com/a4kJg3Z.gif" width="60"><img src="https://i.imgur.com/a4kJg3Z.gif" width="60"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4998&pause=1000&color=F4F4F5&random=false&width=435&lines=May+the+Force+be+with+you+👾)](https://git.io/typing-svg) </p>
 
 <samp>
 I’m AKHI ! I am a tech enthusiast with a passion for app development, UI/UX design, programming, and software design. I also have a keen interest in horology.
