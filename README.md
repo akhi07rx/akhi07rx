@@ -3,8 +3,8 @@
 
 <p align="center">Hi there! I'm Akhi. I love contributing to open source! Mainly working on web related stuff with Django and Python, also works on mobile dev using Flutter whenever I feel like it. Speaks Malayalam and English, currently learning Japanese.</p>
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=akhi07rx&hide_border=true&border_radius=6" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=akhi07rx&hide_border=true&border_radius=6" alt="GitHub Streak">
   </a>
 </div>
