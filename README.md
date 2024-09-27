@@ -1,11 +1,10 @@
-<p align="center"><img width="240" src="star_wars.gif" /></p>
-<p align="center"><a href="http://akhi07rx.github.io/">Website</a> • <a href="test/posts">Blog</a> • <a href="https://github.com/akhi07rx">Stuff I Made</a> • <a href="mailto:akhilakae07@gmail.com">Email</a> • <a href="https://twitter.com/">Twitter</a></p>
+## <p>Hello 👋 <img src="https://i.imgur.com/a4kJg3Z.gif" width="60"><img src="https://i.imgur.com/a4kJg3Z.gif" width="60"></p>
 
-<p align="center">Hi there! I'm Akhi. I love contributing to open source! Mainly working on web related stuff with Django and Python, also works on mobile dev using Flutter whenever I feel like it. Speaks Malayalam and English, currently learning Japanese.</p>
+<samp>
+I’m AKHI ! I am a tech enthusiast with a passion for app development, UI/UX design, programming, and software design. I also have a keen interest in horology.
+</samp>
+<br> </br>
 
-<div style="text-align: center;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=akhi07rx&hide_border=true&border_radius=6" alt="GitHub Streak" />
-  </a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=akhi07rx&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4998&pause=1000&color=F4F4F5&random=false&width=435&lines=May+the+Force+be+with+you+👾)](https://git.io/typing-svg)
