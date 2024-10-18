@@ -7,7 +7,7 @@
 [![wakatime](https://wakatime.com/badge/user/0fe42587-abdb-4702-9793-e803e585eb5c.svg)](https://wakatime.com/@0fe42587-abdb-4702-9793-e803e585eb5c)
 ![GitHub Profile Views](https://git-profile-views-counter.akhilakae07.workers.dev/api/badge?style=emoji)
 
-<!-- ![GitHub Profile Views](https://git-profile-views-counter.akhilakae07.workers.dev/api/badge) -->
+![GitHub Profile Views](https://git-profile-views-counter.akhilakae07.workers.dev/api/badge)
 
 </div>
 <p align="center">Hi there! I'm Akhi. I love contributing to open source! Mainly working on web related stuff with Django and Python, also works on mobile dev using Flutter whenever I feel like it. Speaks Malayalam and English, currently learning Japanese.</p>
